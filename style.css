@@ -5,6 +5,7 @@ body {
 .container {
     display: inline-block;
     text-align: left;
+    font-size:100%
 }
 .info{
     text-align: center;
