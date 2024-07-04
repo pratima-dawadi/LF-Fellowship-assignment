@@ -1,47 +1,50 @@
 body {
-    text-align: center;
-    margin: 20px;
+  text-align: center;
+  margin: 20px;
 }
 .container {
-    display: inline-block;
-    text-align: left;
-    font-size:100%
+  display: inline-block;
+  text-align: left;
+  font-size: 100%;
 }
-.info{
-    text-align: center;
+.info {
+  text-align: center;
 }
 
 table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 20px;
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
 }
 
-th, td {
-    border: 1px solid #ddd;
-    padding: 8px;
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
 }
 
 th {
-    background-color: #f2f2f2;
-    font-weight: bold;
-    text-align: center;
+  background-color: #f2f2f2;
+  font-weight: bold;
+  text-align: center;
 }
 
 td {
-    text-align: center;
+  text-align: center;
 }
 
-.code-button, .host-button, .docs-button {
-    display: inline-block;
-    padding: 5px 10px;
-    margin: 2px;
-    color: white;
-    text-decoration: none;
-    border-radius: 4px;
-    background-color: black;
+.code-button,
+.host-button,
+.docs-button {
+  display: inline-block;
+  padding: 5px 10px;
+  margin: 2px;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  background-color: black;
 }
 
 .n-a {
-    color: #999;
+  color: #999;
 }
